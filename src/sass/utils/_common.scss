@@ -1,0 +1,63 @@
+@import '~node_modules/modern-normalize/modern-normalize.css';
+
+body {
+  font-family: -apple-system, sans-serif;
+}
+
+h1,
+h2,
+h3,
+ul,
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+picture {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  padding: 0;
+  border: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 20px;
+
+  @media screen and (min-width: 480px) {
+    width: 480px;
+  }
+
+  @media screen and (min-width: 768px) {
+    width: 768px;
+    padding: 0 32px;
+  }
+
+  @media screen and (min-width: 1280px) {
+    width: 1280px;
+    padding: 0 16px;
+  }
+}
+
+.centered {
+  text-align: center;
+}
