@@ -13,6 +13,8 @@ function creatyElHtmlCss(codePenItems) {
             <li class="hero-header__item hero-header__item--links">
               <a
                 href="${link}"
+                target="_blank" 
+                rel="noopener norefferer nofollow"
                 class="hero-header__link"
                 >${nameLink}</a
               >

@@ -110,4 +110,25 @@ export const codePenItems = [
     nameLink: 'telephone mask input',
     textLink: 'telephone mask input',
   },
+
+  {
+    number: 17,
+    link: 'https://codepen.io/goit-academy/pen/ZEePQPQ',
+    nameLink: 'Пагінація',
+    textLink: 'Пагінація',
+  },
+
+  {
+    number: 18,
+    link: 'https://codepen.io/goit-academy/pen/abJMdZv',
+    nameLink: 'Пагінація',
+    textLink: 'Пагінація',
+  },
+
+  {
+    number: 19,
+    link: 'https://codepen.io/goit-academy/pen/qBrvOPe',
+    nameLink: 'Пагінація',
+    textLink: 'Пагінація',
+  },
 ];
