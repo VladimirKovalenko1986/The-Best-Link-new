@@ -281,27 +281,20 @@ export const jsItems = [
 
   {
     number: 41,
-    link: 'https://newsapi.org/',
-    nameLink: 'Сайт для завантаження бібліотеки',
-    textLink: 'Сайт для завантаження бібліотеки',
-  },
-
-  {
-    number: 42,
     link: 'https://pokeapi.co/',
     nameLink: 'Сайт для завантаження бібліотеки Покемонів для навчання',
     textLink: 'Сайт для завантаження бібліотеки Покемонів для навчання',
   },
 
   {
-    number: 43,
+    number: 42,
     link: 'https://www.npmjs.com/package/normalize.css?activeTab=readme',
     nameLink: 'Сайт npm normalize.css',
     textLink: 'Сайт npm normalize.css',
   },
 
   {
-    number: 44,
+    number: 43,
     link: 'https://www.npmjs.com/package/parcel-plugin-handlebars-precompile',
     nameLink: 'parcel-plugin-handlebars-precompile',
     textLink: 'Сайт npm parcel-plugin-handlebars-precompile',
