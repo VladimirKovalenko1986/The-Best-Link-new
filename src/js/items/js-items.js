@@ -264,4 +264,46 @@ export const jsItems = [
     nameLink: 'Курс по роботі з Git через термінал',
     textLink: 'Курс по роботі з Git через термінал',
   },
+
+  {
+    number: 39,
+    link: 'https://www.heroku.com/',
+    nameLink: 'Сайт для резрвного зберігання інформації',
+    textLink: 'Сайт для резрвного зберігання інформації',
+  },
+
+  {
+    number: 40,
+    link: 'https://newsapi.org/',
+    nameLink: 'Сайт для завантаження бібліотеки',
+    textLink: 'Сайт для завантаження бібліотеки',
+  },
+
+  {
+    number: 41,
+    link: 'https://newsapi.org/',
+    nameLink: 'Сайт для завантаження бібліотеки',
+    textLink: 'Сайт для завантаження бібліотеки',
+  },
+
+  {
+    number: 42,
+    link: 'https://pokeapi.co/',
+    nameLink: 'Сайт для завантаження бібліотеки Покемонів для навчання',
+    textLink: 'Сайт для завантаження бібліотеки Покемонів для навчання',
+  },
+
+  {
+    number: 43,
+    link: 'https://www.npmjs.com/package/normalize.css?activeTab=readme',
+    nameLink: 'Сайт npm normalize.css',
+    textLink: 'Сайт npm normalize.css',
+  },
+
+  {
+    number: 44,
+    link: 'https://www.npmjs.com/package/parcel-plugin-handlebars-precompile',
+    nameLink: 'parcel-plugin-handlebars-precompile',
+    textLink: 'Сайт npm parcel-plugin-handlebars-precompile',
+  },
 ];
