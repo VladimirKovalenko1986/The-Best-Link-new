@@ -299,4 +299,46 @@ export const jsItems = [
     nameLink: 'parcel-plugin-handlebars-precompile',
     textLink: 'Сайт npm parcel-plugin-handlebars-precompile',
   },
+
+  {
+    number: 44,
+    link: 'https://jsonplaceholder.typicode.com/',
+    nameLink: '{JSON} Placeholder',
+    textLink: 'Сайт для навяання API запитів {JSON} Placeholder ',
+  },
+
+  {
+    number: 45,
+    link: 'https://github.com/public-apis/public-apis#email',
+    nameLink: 'Public APIs',
+    textLink: 'Сайт для Public APIs',
+  },
+
+  {
+    number: 46,
+    link: 'https://publicapis.dev/category/calendar',
+    nameLink: 'Public APIs',
+    textLink: 'Сайт для Public APIs - 2',
+  },
+
+  {
+    number: 47,
+    link: 'https://stackoverflow.com/questions/39297345/fetch-resolves-even-if-404',
+    nameLink: 'fetch resolves even if 404?',
+    textLink: 'Вилавлювання помилкі 404',
+  },
+
+  {
+    number: 48,
+    link: 'https://www.postman.com/downloads/?utm_source=postman-home',
+    nameLink: 'Download Postman',
+    textLink: 'Download Postman',
+  },
+
+  {
+    number: 49,
+    link: 'https://infinite-scroll.com/#install',
+    nameLink: 'Infinite Scroll',
+    textLink: 'Infinite Scroll підключення',
+  },
 ];
