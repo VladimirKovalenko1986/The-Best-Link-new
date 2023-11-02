@@ -292,4 +292,76 @@ export const jsItems = [
     nameLink: 'Infinite Scroll',
     textLink: 'Infinite Scroll підключення',
   },
+
+  {
+    link: 'https://pixabay.com/photos/pyrenees-mountains-snow-landscape-351266/',
+    nameLink: 'Pixabay',
+    textLink: 'Pixabay скачування картинок',
+  },
+
+  {
+    link: 'https://infinite-scroll.com/#getting-started',
+    nameLink: 'Infinite Scroll',
+    textLink: 'Бібліотека для підключення Infinite Scroll',
+  },
+
+  {
+    link: 'https://the-one-api.dev/',
+    nameLink: 'The One API',
+    textLink: 'Бібліотека АПІ The One API',
+  },
+
+  {
+    link: 'https://thecatapi.com/',
+    nameLink: 'The Cat API',
+    textLink: 'Бібліотека АПІ The Cat API',
+  },
+
+  {
+    link: 'https://axios-http.com/',
+    nameLink: 'AXIOS',
+    textLink: 'AXIOS',
+  },
+
+  {
+    link: 'https://mockapi.io/projects',
+    nameLink: 'mockapi.io',
+    textLink: 'Сервер для моделювання запитів АПІ mockapi.io',
+  },
+
+  {
+    link: 'https://hosting.ua/',
+    nameLink: 'Hosting.UA',
+    textLink: 'розташування сайту на сервері Hosting.UA',
+  },
+
+  {
+    link: 'https://restcountries.com/',
+    nameLink: 'REST COUNTRIES',
+    textLink: 'REST COUNTRIES API',
+  },
+
+  {
+    link: 'https://www.weatherapi.com/docs/',
+    nameLink: 'weather API',
+    textLink: 'weather API',
+  },
+
+  {
+    link: 'https://cssloaders.github.io/',
+    nameLink: 'cssloaders',
+    textLink: 'Підключення стілей завнтаження cssloaders',
+  },
+
+  {
+    link: 'https://slimselectjs.com/selects#single',
+    nameLink: 'Slim Select 2.0',
+    textLink: 'Підключення стілей бібліотеки вікон select Slim Select 2.0',
+  },
+
+  {
+    link: 'https://slimselectjs.com/selects#single',
+    nameLink: 'Slim Select 2.0',
+    textLink: 'Підключення стілей бібліотеки вікон select Slim Select 2.0',
+  },
 ];

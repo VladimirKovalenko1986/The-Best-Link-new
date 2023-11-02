@@ -112,4 +112,16 @@ export const codePenItems = [
     nameLink: 'Пагінація',
     textLink: 'Пагінація',
   },
+
+  {
+    link: 'https://codepen.io/goit-academy/pen/gOmKKvj',
+    nameLink: 'change-event',
+    textLink: 'change-event',
+  },
+
+  {
+    link: 'https://codepen.io/goit-academy/pen/XWMozzv',
+    nameLink: 'localstorage',
+    textLink: 'localstorage',
+  },
 ];
