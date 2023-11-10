@@ -124,4 +124,9 @@ export const codePenItems = [
     nameLink: 'localstorage',
     textLink: 'localstorage',
   },
+  {
+    link: 'https://codepen.io/goit-academy/pen/XWMozzv',
+    nameLink: 'localstorage',
+    textLink: 'localstorage',
+  },
 ];
