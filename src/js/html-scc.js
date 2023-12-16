@@ -1,6 +1,5 @@
 import { htmlCssItems } from './items/html-css-items';
-import createRenderingItems from './function-rendering-items';
+import createRenderingItems from './helpers/function-rendering-items';
+import { refs } from './common/const';
 
-const UlEl = document.getElementById('hero-list');
-
-UlEl.insertAdjacentHTML('beforeend', createRenderingItems(htmlCssItems));
+refs.UlEl.insertAdjacentHTML('beforeend', createRenderingItems(htmlCssItems));
