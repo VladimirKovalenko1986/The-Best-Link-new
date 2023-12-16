@@ -129,4 +129,16 @@ export const codePenItems = [
     nameLink: 'localstorage',
     textLink: 'localstorage',
   },
+
+  {
+    link: 'https://codepen.io/melaniya/pen/oNZyodm',
+    nameLink: 'Аналоговые часы',
+    textLink: 'Аналоговые часы',
+  },
+
+  {
+    link: 'https://codepen.io/yutre-yutre/pen/wvooaNp',
+    nameLink: 'HTML_CSS_Level2_Аналог Часы',
+    textLink: 'HTML_CSS_Level2_Аналог Часы',
+  },
 ];
