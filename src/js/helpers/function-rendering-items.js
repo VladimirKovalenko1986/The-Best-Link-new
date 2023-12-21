@@ -22,5 +22,6 @@ export default function createRenderingItems(arr, element) {
           `;
     })
     .join('');
+
   element.insertAdjacentHTML('beforeend', murkup);
 }
