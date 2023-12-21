@@ -1,5 +1,5 @@
-export default function createRenderingItems(arr) {
-  return arr
+export default function createRenderingItems(arr, element) {
+  const murkup = arr
     .map(({ link, nameLink, textLink }, index) => {
       return `
     <div class="wrapper-hero">
@@ -22,4 +22,5 @@ export default function createRenderingItems(arr) {
           `;
     })
     .join('');
+  element.insertAdjacentHTML('beforeend', murkup);
 }
