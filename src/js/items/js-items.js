@@ -360,8 +360,8 @@ export const jsItems = [
   },
 
   {
-    link: 'https://slimselectjs.com/selects#single',
-    nameLink: 'Slim Select 2.0',
-    textLink: 'Підключення стілей бібліотеки вікон select Slim Select 2.0',
+    link: 'https://www.npmjs.com/package/only-scrollbar',
+    nameLink: 'OnlyScrollbar',
+    textLink: 'Кастомный скроллбар',
   },
 ];
