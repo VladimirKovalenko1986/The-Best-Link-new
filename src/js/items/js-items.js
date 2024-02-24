@@ -162,6 +162,12 @@ export const jsItems = [
   },
 
   {
+    link: 'https://github.com/goitacademy/vanilla-app-template',
+    nameLink: 'Vanilla',
+    textLink: 'vanilla зборка для работи',
+  },
+
+  {
     link: 'https://github.com/vimeo/player.js/#pre-existing-player',
     nameLink: 'video / player.js',
     textLink: 'Бібліотека з роботи з відео файлами',
@@ -201,6 +207,12 @@ export const jsItems = [
     link: 'https://flatpickr.js.org/examples/',
     nameLink: 'flatpickr.js Data',
     textLink: 'Бібліотека Date code',
+  },
+
+  {
+    link: 'https://izitoast.marcelodolza.com/',
+    nameLink: 'IZITOAST',
+    textLink: 'Бібліотека IZITOAST, для визову форм повідомлень',
   },
 
   {
@@ -363,5 +375,15 @@ export const jsItems = [
     link: 'https://www.npmjs.com/package/only-scrollbar',
     nameLink: 'OnlyScrollbar',
     textLink: 'Кастомный скроллбар',
+  },
+  {
+    link: 'https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollBy',
+    nameLink: 'Window: scrollBy() method',
+    textLink: 'Плавний scrollBy',
+  },
+  {
+    link: 'https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect',
+    nameLink: 'Element: getBoundingClientRect() method',
+    textLink: 'Element: getBoundingClientRect() method - Геометрічний розмір',
   },
 ];
