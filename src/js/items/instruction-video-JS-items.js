@@ -130,4 +130,16 @@ export const instructionVideoJs = [
     nameLink: 'Урок Модуль 11. HTTP-запити і взаємодія з бекендом',
     textLink: 'Урок Модуль 11. HTTP-запити і взаємодія з бекендом',
   },
+
+  {
+    link: 'https://www.youtube.com/watch?v=YTII2-P7uec',
+    nameLink: 'Урок Mодуль 12.Синтаксис async/await. Пагінація',
+    textLink: 'Урок Mодуль 12.Синтаксис async/await. Пагінація',
+  },
+
+  {
+    link: 'https://www.youtube.com/watch?v=KJKxoo_go8c',
+    nameLink: 'Урок Mодуль 12.Синтаксис async/await. Пагінація',
+    textLink: 'Урок Mодуль 12.Синтаксис async/await. Пагінація',
+  },
 ];
