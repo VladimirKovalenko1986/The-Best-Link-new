@@ -141,4 +141,10 @@ export const codePenItems = [
     nameLink: 'HTML_CSS_Level2_Аналог Часы',
     textLink: 'HTML_CSS_Level2_Аналог Часы',
   },
+
+  {
+    link: 'https://codepen.io/jkantner/pen/poxXLav',
+    nameLink: 'Delete Button Animation',
+    textLink: 'Delete Button Animation',
+  },
 ];
