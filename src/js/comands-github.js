@@ -1,5 +1,5 @@
-import { comandsItems } from './items/comands-github-items';
 import { createRenderingItemsGitComands } from './helpers/function-rendering-items';
 import { refs } from './common/const';
+import comandsGithub from './items/comands-github-items.json';
 
-createRenderingItemsGitComands(comandsItems, refs.UlEl);
+createRenderingItemsGitComands(comandsGithub, refs.UlEl);

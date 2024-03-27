@@ -1,5 +1,5 @@
-import { codePenItems } from './items/code-pen-items';
 import { createRenderingItems } from './helpers/function-rendering-items';
 import { refs } from './common/const';
+import codeItems from './items/code-pen-items.json';
 
-createRenderingItems(codePenItems, refs.UlEl);
+createRenderingItems(codeItems, refs.UlEl);
